@@ -1,1 +1,1 @@
-- [Capstone](capstone.md)
+- [Capstone](Capstone.md)
